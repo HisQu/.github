@@ -1,46 +1,74 @@
 # Forschungsdaten Infrastruktur Historischer Quellen (HisQu)
-**Welcome to the internal organization repository** of the Forschungsdaten Infrastruktur Historischer Quellen (HisQu). This repository is dedicated to coordination, documentation, and onboarding resources for team members working on historical data projects.
+Welcome to the **Forschungsdaten Infrastruktur Historischer Quellen** (HisQu) organization on GitHub!  
+HisQu is an initiative to build an open research data infrastructure for historical sources, focusing on structured data extraction, ontology development, and Named Entity Recognition (NER) for historical texts.
 
-> **Note:** This repo is private/internal at the moment but can be opened to the public in the future. The documentation and structure are built with that flexibility in mind.
+> **Note:** We're still in the process of setting things up! If you have any questions or can't find something, feel free to reach out by opening an [issues](https://github.com/HisQu/Organisation/issues) in this repository. We'd be happy to help! 😉.  
 
+## About This Repository
+This repository functions as the main **organizational hub** for the HisQu project.  
+It contains:
+- **Project Documentation**: Guidelines, standards, and processes for contributors.
+- **Onboarding Resources**: Articles and tutorials for both historians and technical team members.
+- **Links to Other Repositories**: Direct access to our data, pipelines, and ontology resources.
 
-## About This Repo
-- **Organizational Documentation**: Includes project guidelines, roles, and responsibilities.  
-- **Onboarding Resources**: Articles and tutorials for both historians and technical contributors to quickly get started.  
-- **References & Links**: Points to relevant repositories and external resources (ontologies, coding best practices, etc.).
 
 ## Repository Overview
 
+### 📌 Core Repositories
+
 - **[Organisation (this repo)](https://github.com/HisQu/Organisation)**  
-  The central repository that hosts our Wiki for onboarding and overall project documentation.
+  Central coordination and documentation repository.  
 
 - **[RG_data](https://github.com/HisQu/RG_data)**  
-  Contains raw Repertorium Germanicum data and various converted formats.
+  Contains **raw and processed data** extracted from the *Repertorium Germanicum*, including structured formats for further analysis.  
 
-- **Coming Soon**:  
-  - `ner_assistant` (Named Entity Recognition pipeline)  
-  - `ontdev_assistant` (Ontology development pipeline)  
+### 🔄 Data Processing & Pipelines *(Coming Soon)*  
 
-These will be migrated from GitLab into this organization in the near future.
+- **ner_assistant** *(to be migrated from GitLab)*  
+  - Named Entity Recognition (NER) pipeline tailored for historical text processing.  
 
+- **ontdev_assistant** *(to be migrated from GitLab)*  
+  - Ontology development tools for historical research data.  
 
-## Getting Started
-1. **Check the Wiki** (top tab): Our internal documentation covers how to set up your environment, follow best practices, and who to contact for any questions.  
-2. **Clone or Fork** the necessary repositories: Start with `RG_data` if you’re working with the Repertorium Germanicum dataset.  
-3. **Open Issues**: If you encounter problems or have suggestions, please open issues in the relevant repository.
+---
 
+## 🚀 Getting Started
 
-## How to Contribute
-- **Pull Requests**: Make sure to follow our guidelines on Git commit messages, branching, and pull request reviews (more details in the Wiki).  
-- **Code Style**: We adhere to [PEP 8](https://peps.python.org/pep-0008/) for Python code. Document your code clearly with docstrings and comments.
-- **Community Feedback**: Tag relevant contributors or leads in discussions and issues.
+1. **Check the [Wiki](https://github.com/HisQu/Organisation/wiki)**  
+   The Wiki provides onboarding guides, best practices, and documentation for working with our repositories.  
 
+2. **Clone or Fork the Necessary Repositories**  
+   - If you work with **data**, start with [`RG_data`](https://github.com/HisQu/RG_data).  
+   - If you work on **NER or ontology development**, check the pipeline repositories (coming soon).  
 
-## Future Plans
-- **Expanded Ontologies**: Further refine and document the domain-specific ontologies for historical data.  
-- **Collaborative Workflows**: Improve guidelines and best practices to ensure smooth collaboration between historians and developers.
+3. **Join the Discussion**  
+   - Open issues in relevant repositories for questions, bugs, or feature suggestions.  
+   - Follow commit message guidelines and contribution best practices.  
 
+---
 
-## Contact
-If you have any questions or need help, please consult the Wiki for a list of active project members and their roles, or open an issue in this repository.
+## 💡 How to Contribute
+- **Follow our Git and coding guidelines** *(detailed in the Wiki)*  
+- **Open Issues**: Report problems, request features, or propose improvements.  
+- **Pull Requests**: All changes should go through PR reviews before merging.  
+- **Code Style**:  
+  - Python code follows [PEP 8](https://peps.python.org/pep-0008/) conventions.  
+  - Clear docstrings and comments are encouraged.  
+  - Consistent folder structures should be maintained.  
 
+---
+
+## 📅 Future Plans
+- **Pipeline Migrations**: Moving `ner_assistant` and `ontdev_assistant` from GitLab to GitHub.  
+- **Ontology Expansion**: Refining historical ontologies and publishing documentation.  
+- **Better Collaboration**: Improving best practices and workflows for interdisciplinary teams.  
+
+---
+
+## 📞 Contact & Support
+For general questions or discussions, please check the **[Wiki](https://github.com/HisQu/Organisation/wiki)** or open an [Issue](https://github.com/HisQu/Organisation/issues) in this repository.  
+For specific repository-related questions, refer to the respective repo’s Issues section.  
+
+---
+
+🚀 **Follow this repository for updates and improvements as we continue developing the HisQu infrastructure!**  
