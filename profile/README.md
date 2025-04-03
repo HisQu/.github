@@ -1,74 +1,53 @@
-# Forschungsdaten Infrastruktur Historischer Quellen (HisQu)
-Welcome to the **Forschungsdaten Infrastruktur Historischer Quellen** (HisQu) organization on GitHub!  
-HisQu is an initiative to build an open research data infrastructure for historical sources, focusing on structured data extraction, ontology development, and Named Entity Recognition (NER) for historical texts.
+# Forschungsdateninfrastruktur Historische Quellen (HisQu)
 
-> **Note:** We're still in the process of setting things up! If you have any questions or can't find something, feel free to reach out by opening an [issues](https://github.com/HisQu/Organisation/issues) in this repository. We'd be happy to help! 😉.  
+Willkommen im offiziellen GitHub-Repository des Projekts **HisQu – Forschungsdateninfrastruktur Historische Quellen**.  
+Das Projekt wird im Rahmen des Förderprogramms **e-Research-Technologien** von der **Deutschen Forschungsgemeinschaft (DFG)** gefördert und läuft vom **1. Januar 2025 bis 31. Dezember 2027**.
 
-## About This Repository
-This repository functions as the main **organizational hub** for the HisQu project.  
-It contains:
-- **Project Documentation**: Guidelines, standards, and processes for contributors.
-- **Onboarding Resources**: Articles and tutorials for both historians and technical team members.
-- **Links to Other Repositories**: Direct access to our data, pipelines, and ontology resources.
+## 🧭 Projektüberblick
 
+**HisQu** verfolgt das Ziel, eine domänenspezifische digitale Infrastruktur zu entwickeln, die eine **ontologiebasierte, semantische Erschließung** historischer Quellen – insbesondere **Regesten** – ermöglicht. Die Anwendung richtet sich an Forschungsgruppen, Einzelwissenschaftler:innen sowie alle weiteren Interessierten und unterstützt das **kollaborative digitale Arbeiten** in den historischen Wissenschaften.
 
-## Repository Overview
+Im Fokus stehen:
+- die **semantische Erschließung** von heterogenen und semistrukturierten Quellentexten durch Verfahren der **Computerlinguistik** (z. B. maschinelles Lernen, domänenspezifische Grammatiken),
+- die Entwicklung eines **semantic-web-fähigen Datenmodells** zur Generierung eines **Wissensgraphen**,
+- die Integration einer **Wikibase-Instanz** als flexibler, domänenspezifischer Datenspeicher,
+- sowie **modular anpassbare Nutzeroberflächen** für die Bearbeitung, Abfrage und Visualisierung der Daten.
 
-### 📌 Core Repositories
+Die Infrastruktur deckt alle Phasen des Forschungsdatenzyklus ab – von der **Datengenerierung** über **Verarbeitung** und **Analyse** bis hin zur **Nachnutzung**.
 
-- **[Organisation (this repo)](https://github.com/HisQu/Organisation)**  
-  Central coordination and documentation repository.  
+Als exemplarischer Anwendungsfall dient das **Repertorium Germanicum (RG)**, ein zentrales Quellenkorpus zur spätmittelalterlichen Kirchengeschichte, das bislang nur eingeschränkt digital erschlossen ist. Begleitende **Fallstudien** aus der Fachwissenschaft testen und validieren die Praxistauglichkeit von HisQu.
 
-- **[RG_data](https://github.com/HisQu/RG_data)**  
-  Contains **raw and processed data** extracted from the *Repertorium Germanicum*, including structured formats for further analysis.  
+## 👥 Projektpartner
 
-### 🔄 Data Processing & Pipelines *(Coming Soon)*  
+### Germania Sacra  
+*Niedersächsische Akademie der Wissenschaften zu Göttingen*  
+- Prof. Dr. Hedwig Röckelein  
+- Bärbel Kröger, M.A.  
+- Dr. Christian Popp  
 
-- **ner_assistant** *(to be migrated from GitLab)*  
-  - Named Entity Recognition (NER) pipeline tailored for historical text processing.  
+### Friedrich-Schiller-Universität Jena  
+*Arbeitsgruppe MEPHisto – Modelle, Erklärungen und Prozesse in den historischen Wissenschaften*  
+- Prof. Dr. Clemens Beckstein  
+- Apl. Prof. Dr. Robert Gramsch-Stehfest  
 
-- **ontdev_assistant** *(to be migrated from GitLab)*  
-  - Ontology development tools for historical research data.  
+### Deutsches Historisches Institut in Rom  
+*Repertorium Germanicum*  
+- Prof. Dr. Martin Baumeister  
+- Dr. Jörg Hörnschemeyer  
 
----
-
-## 🚀 Getting Started
-
-1. **Check the [Wiki](https://github.com/HisQu/Organisation/wiki)**  
-   The Wiki provides onboarding guides, best practices, and documentation for working with our repositories.  
-
-2. **Clone or Fork the Necessary Repositories**  
-   - If you work with **data**, start with [`RG_data`](https://github.com/HisQu/RG_data).  
-   - If you work on **NER or ontology development**, check the pipeline repositories (coming soon).  
-
-3. **Join the Discussion**  
-   - Open issues in relevant repositories for questions, bugs, or feature suggestions.  
-   - Follow commit message guidelines and contribution best practices.  
+### Forschungszentrum Gotha der Universität Erfurt  
+*FactGrid*  
+- Prof. Dr. Martin Mulsow  
+- Dr. Olaf Simons  
 
 ---
 
-## 💡 How to Contribute
-- **Follow our Git and coding guidelines** *(detailed in the Wiki)*  
-- **Open Issues**: Report problems, request features, or propose improvements.  
-- **Pull Requests**: All changes should go through PR reviews before merging.  
-- **Code Style**:  
-  - Python code follows [PEP 8](https://peps.python.org/pep-0008/) conventions.  
-  - Clear docstrings and comments are encouraged.  
-  - Consistent folder structures should be maintained.  
+## 📞 Kontakt & Unterstützung
+
+Für allgemeine Fragen oder Diskussionen besuche bitte unsere  **[Website](https://www.hisqu.de)** oder eröffne ein [Issue](https://github.com/HisQu/Organisation/issues) in diesem Repository.  
+Für konkrete Fragen zu einzelnen Teilprojekten nutze bitte die *Issues*-Sektion des jeweiligen Repositories.
 
 ---
 
-## 📅 Future Plans
-- **Pipeline Migrations**: Moving `ner_assistant` and `ontdev_assistant` from GitLab to GitHub.  
-- **Ontology Expansion**: Refining historical ontologies and publishing documentation.  
-- **Better Collaboration**: Improving best practices and workflows for interdisciplinary teams.  
+🚀 **Folge diesem Repository**, um über Updates und Weiterentwicklungen der HisQu-Infrastruktur auf dem Laufenden zu bleiben!
 
----
-
-## 📞 Contact & Support
-For general questions or discussions, please check the **[Wiki](https://github.com/HisQu/Organisation/wiki)** or open an [Issue](https://github.com/HisQu/Organisation/issues) in this repository.  
-For specific repository-related questions, refer to the respective repo’s Issues section.  
-
----
-
-🚀 **Follow this repository for updates and improvements as we continue developing the HisQu infrastructure!**  
