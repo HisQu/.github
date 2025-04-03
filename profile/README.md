@@ -19,16 +19,16 @@ Als exemplarischer Anwendungsfall dient das **Repertorium Germanicum (RG)**, ein
 
 ## 👥 Projektpartner
 
+### Friedrich-Schiller-Universität Jena  
+*Arbeitsgruppe MEPHisto – Modelle, Erklärungen und Prozesse in den historischen Wissenschaften*  
+- Prof. Dr. Clemens Beckstein  (Projektleitung) 
+- Apl. Prof. Dr. Robert Gramsch-Stehfest  
+
 ### Germania Sacra  
 *Niedersächsische Akademie der Wissenschaften zu Göttingen*  
 - Prof. Dr. Hedwig Röckelein  
 - Bärbel Kröger, M.A.  
 - Dr. Christian Popp  
-
-### Friedrich-Schiller-Universität Jena  
-*Arbeitsgruppe MEPHisto – Modelle, Erklärungen und Prozesse in den historischen Wissenschaften*  
-- Prof. Dr. Clemens Beckstein  
-- Apl. Prof. Dr. Robert Gramsch-Stehfest  
 
 ### Deutsches Historisches Institut in Rom  
 *Repertorium Germanicum*  
