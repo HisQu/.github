@@ -38,8 +38,7 @@ Der Aufbau von HisQu erfolgt **exemplarisch** am *Repertorium Germanicum (RG)*, 
 ### Friedrich-Schiller-Universität Jena  
 Arbeitsgruppe MEPHisto – Modelle, Erklärungen und Prozesse in den historischen Wissenschaften  
 - Prof. Dr. Clemens Beckstein  
-- Apl. Prof. Dr. Robert Gramsch-Stehfest  
-- Johannes Mitschunas, M.Sc.
+- Apl. Prof. Dr. Robert Gramsch-Stehfest
 
 ### Niedersächsische Akademie der Wissenschaften zu Göttingen – Germania Sacra  
 - Prof. Dr. Hedwig Röckelein  
